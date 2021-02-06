@@ -6,6 +6,6 @@ git commit -> Comitar as mudanças no código
 git commit -a -> todos arquivos
 git add -m "" -> mensagem do commit
 
-git push -> envia para o repositório REMOTO
+git push -> envia para o repositório REMOTO.
 
 git pull -> trás novos arquivos e arquivos editados do repositório REMOTO para o repositório LOCAL
