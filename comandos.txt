@@ -14,4 +14,4 @@ git clone -> Ctrl + c / ctrl + v
 
 git rm "arquivo" -> deletar arquivo 
 
-git log -> todas alterações realizadas aparecem no terminal 
+git log -> todas alterações realizadas aparecem no terminal (q sai do terminal)
