@@ -11,3 +11,5 @@ git push -> envia para o repositório REMOTO.
 git pull -> trás novos arquivos e arquivos editados do repositório REMOTO para o repositório LOCAL
 
 git clone -> Ctrl + c / ctrl + v 
+
+git rm "arquivo" -> deletar arquivo 
