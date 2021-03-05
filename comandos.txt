@@ -13,3 +13,5 @@ git pull -> trás novos arquivos e arquivos editados do repositório REMOTO para
 git clone -> Ctrl + c / ctrl + v 
 
 git rm "arquivo" -> deletar arquivo 
+
+git log -> todas alterações realizadas aparecem no terminal 
