@@ -16,4 +16,5 @@ git rm "arquivo" -> deletar arquivo
 
 git log -> todas alterações realizadas aparecem no terminal (q sai do terminal)
 
-git mv "nome do arquivo" "local onde quer mover o arquivo/nome do arquivo"
+git mv "nome do arquivo" "local onde quer mover o arquivo/nome do arquivo" 
+-> também serve pra renomear arquivos (move pro mesmo local mas com nome diferente)
