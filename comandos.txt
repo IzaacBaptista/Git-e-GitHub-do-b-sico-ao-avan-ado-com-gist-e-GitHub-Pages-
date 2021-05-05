@@ -22,3 +22,5 @@ git mv "nome do arquivo" "local onde quer mover o arquivo/nome do arquivo"
 git checkout -> + nome do arquivo (desfaz alterações, e ai não fica pendente na commit pra ser adicionado como modificado) É um ctrl + z gourmetizado 
 
 gitignore não é um comando, mas sim um arquivo onde você pode inserir a extensão ou tipo de arquivo ou até mesmo uma pasta que você queira ignorar no projeto (não vai ficar pendente no git status, não vai pro repo quando der commit)
+
+git reset -> reseta a branch, MAS APENAS ARQUIVOS COMMITADOS NO REPO LOCAL. SE DER PUSH ELE NÃO RESETA. EX: git reset origin/master
