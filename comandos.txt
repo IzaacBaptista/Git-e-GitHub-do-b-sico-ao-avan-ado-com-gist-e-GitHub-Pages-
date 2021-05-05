@@ -19,4 +19,4 @@ git log -> todas alterações realizadas aparecem no terminal (q sai do terminal
 git mv "nome do arquivo" "local onde quer mover o arquivo/nome do arquivo" 
 -> também serve pra renomear arquivos (move pro mesmo local mas com nome diferente)
 
-git checkout -> + nome do arquivo (desfaz alterações, e ai não fica pendente na commit pra ser adicionado como modificado)
+git checkout -> + nome do arquivo (desfaz alterações, e ai não fica pendente na commit pra ser adicionado como modificado) É um ctrl + z gourmetizado 
