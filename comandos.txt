@@ -20,3 +20,6 @@ git mv "nome do arquivo" "local onde quer mover o arquivo/nome do arquivo"
 -> também serve pra renomear arquivos (move pro mesmo local mas com nome diferente)
 
 git checkout -> + nome do arquivo (desfaz alterações, e ai não fica pendente na commit pra ser adicionado como modificado) É um ctrl + z gourmetizado 
+
+gitignore não é um comando, mas sim um arquivo onde você pode inserir a extensão ou tipo de arquivo que você queira ignorar no projeto
+
