@@ -1,6 +1,6 @@
 git status -> Exibe mudanças feitas
 
-git add -> Para adicionar arquivos modificados ao seu repositório LOCAL
+git add . -> Para adicionar arquivos modificados ao seu repositório LOCAL
 
 git commit -> Comitar as mudanças no código 
 git commit -a -> todos arquivos
